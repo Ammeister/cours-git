@@ -18,3 +18,4 @@ Ces cours sont sous licence CC BY. Les ressources utilisées par le cours sont t
 - [Qu'est-ce que le gitignore ?](GITIGNORE.MD)
 
 La date de sortie de Dune a été repoussée à l'an prochain.
+Et de nouveau
